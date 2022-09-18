@@ -5,7 +5,7 @@ Try
 
 - My email: **fabio.schorn@expertsonline.com.br**
 
-- LinkedIn: <p align="left"><a href="https://linkedin.com/in/fabioschorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="fabioschorn" height="30" width="40" /></a>
+- <p align="left">LinkedIn:<a href="https://linkedin.com/in/fabioschorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="fabioschorn" height="30" width="40" /></a>
 </p>
 <BR>
 <h3 align="center">Technologies I :+1:...</h3>
