@@ -1,11 +1,11 @@
 <h2 align="left">Hello, I'm Fábio Schorn...:alien:</h2>
 <h3 align="justify">&nbsp; &nbsp; I'm passionate about technology!!! I work with DevOps culture, I'm interested in cloud computing, automation, programming and information security...</h3>
 
+Try
+
 - My email: **fabio.schorn@expertsonline.com.br**
 
-- Else try:
-<p align="left">
-<a href="https://linkedin.com/in/fabioschorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="fabioschorn" height="30" width="40" /></a>
+- LinkedIn: <p align="left"><a href="https://linkedin.com/in/fabioschorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="fabioschorn" height="30" width="40" /></a>
 </p>
 <BR>
 <h3 align="center">Technologies I :+1:...</h3>
