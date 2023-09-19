@@ -1,5 +1,5 @@
 <h2 align="left">Hello, I'm Fábio Schorn...:alien:</h2>
-<h3 align="left">&nbsp; &nbsp; I'm passionate about technology!!! I work with DevOps culture, I'm interested in cloud computing, automation, programming and information security...</h3>
+<h3 align="left">&nbsp; &nbsp; I'm passionate about technology... I work with DevOps culture, I'm interested in cloud computing, automation, programming and information security.</h3>
 
 Try
 
