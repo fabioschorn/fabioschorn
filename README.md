@@ -36,11 +36,11 @@
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=fabioschorn&show_icons=true&locale=en&theme=onedark&count_private=true" alt="fabioschorn" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=fabioschorn&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="fabioschorn" /></p>
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioschorn&layout=compact&show_icons=true&theme=onedark&locale=en&count_private=true&langs_count=8" alt="fabioschorn" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioschorn&layout=compact&show_icons=true&theme=tokyonight&locale=en&count_private=true&langs_count=8" alt="fabioschorn" /></p>
   </td>
   </tr>
   </table>
