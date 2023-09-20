@@ -1,4 +1,4 @@
-### Hello, I'm Fábio Schorn...:alien:
+### Hello, I'm Fábio Schorn...
 
 <table width="100%">
   <tr>
