@@ -9,9 +9,9 @@
   <td width="50%">
 
   <br><p align="left">&nbsp; &nbsp; I'm passionate about technology... I work with DevOps culture, I'm interested in cloud computing, automation, programming and information security.<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://linkedin.com/in/fabioschorn)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5LKify3d)
-  ![Visits](https://komarev.com/ghpvc/?username=fabioschorn&color=blue&style=flat-square&label=visits)
+  [![Medium](https://img.shields.io/badge/Medium-369?style=flat-square&logo=medium&logoColor=white&color=purple)](https://medium.com/@fschorn)
+  [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mailhide.io/e/5LKify3d)
+  ![Visits](https://komarev.com/ghpvc/?username=fabioschorn&color=red&style=flat-square&label=Visits)
 </p>
   </td>
   <td width="50%">
