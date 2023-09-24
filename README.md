@@ -1,4 +1,4 @@
-### Hello, I'm Fábio Schorn...
+### Hello folks...
 
 <table width="100%">
   <tr>
@@ -36,11 +36,11 @@
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=fabioschorn&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="fabioschorn" /></p>
+  <p align = "center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabioschorn&theme=tokyonight&count_private=true&show_icons=true&locale=en" alt="fabioschorn" /></p>
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioschorn&layout=compact&show_icons=true&theme=tokyonight&locale=en&count_private=true&langs_count=8" alt="fabioschorn" /></p>
+  <p align = "center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabioschorn&layout=compact&show_icons=true&theme=tokyonight&locale=en&count_private=true&langs_count=6" alt="fabioschorn" /></p>
   </td>
   </tr>
   </table>
