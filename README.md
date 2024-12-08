@@ -8,7 +8,7 @@
   <tr>
   <td width="50%">
 
-  <br><p align="left">&nbsp; &nbsp; I'm passionate about technology... I work with DevOps culture, I'm interested in cloud computing, automation, programming and information security.<br><br>
+  <br><p align="left">&nbsp; &nbsp; I'm passionate about technology... I work with DevOps culture, I'm interested in cloud computing, automation, programming and information security. In adicional I'm a hobbyist and a maker.<br><br>
   [![Medium](https://img.shields.io/badge/Medium-369?style=flat-square&logo=medium&logoColor=white&color=purple)](https://medium.com/@fschorn)
   [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mailhide.io/e/5LKify3d)
   ![Visits](https://komarev.com/ghpvc/?username=fabioschorn&color=red&style=flat-square&label=Visits)
