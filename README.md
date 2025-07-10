@@ -1,5 +1,4 @@
 ### Hello folks...
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/fschorn09.png)](https://tryhackme.com/p/fschorn09)
 
 <table width="100%">
   <tr>
@@ -49,6 +48,16 @@
   <td width = "50%">
   <br>
   <p align = "center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabioschorn&layout=compact&show_icons=true&theme=tokyonight&locale=en&count_private=true&langs_count=6" alt="fabioschorn" /></p>
+  </td>
+  </tr>
+  <td align="center" colspan="2">
+    <strong style="color:green;">🇧🇷 <span style="color:gold;">For fun</span> 🇧🇷</strong>
+  </td>
+  </tr>
+  <tr>
+  <td align="center" colspan="2">
+  <a href="https://tryhackme.com/p/fschorn09" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/fschorn09.png" alt="TryHackMe Badge"/>
+  </a>
   </td>
   </tr>
   </table>
