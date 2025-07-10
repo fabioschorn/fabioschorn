@@ -51,7 +51,7 @@
   </td>
   </tr>
   <td align="center" colspan="2">
-    <strong style="color:green;">🇧🇷 <span style="color:gold;">For fun</span> 🇧🇷</strong>
+    <strong style="color:green;">🤯 <span style="color:gold;">For fun</span> 🔥</strong>
   </td>
   </tr>
   <tr>
