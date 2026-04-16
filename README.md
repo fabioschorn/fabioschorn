@@ -1,8 +1,19 @@
 ## 👨‍💻 About Me
 
-I'm passionate about technology.  
-I work with DevOps culture and I'm interested in cloud computing, automation, programming, and information security.  
-In addition, I'm a tech hobbyist and maker.
+I'm a **Cloud, Security, and DevSecOps enthusiast** focused on building secure, scalable, and automated environments.  
+I work with **cloud infrastructure, automation, Linux, containers, CI/CD, and information security**, always looking for practical ways to improve reliability and reduce risk.  
+I’m also a **tech hobbyist and maker** who enjoys learning, testing, and building things.
+
+---
+
+## 🔐 Main Focus
+
+- Cloud Infrastructure
+- DevSecOps
+- Information Security
+- Automation
+- Linux & Open Source
+- Containers & Infrastructure as Code
 
 ---
 
@@ -16,16 +27,12 @@ In addition, I'm a tech hobbyist and maker.
 
 ---
 
-## ⚙️ Technologies I Like
+## ☁️ Security & Cloud Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,debian,redhat,docker,git,python,rust" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=terraform,ansible,mysql,postgres,mongodb" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=aws,gcp" />
-
+  <img src="https://skillicons.dev/icons?i=linux,bash,debian,redhat,docker,git,python,rust" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws,gcp,mysql,postgres,mongodb" />
 </p>
 
 ---
