@@ -40,16 +40,35 @@ I’m also a **tech hobbyist and maker** who enjoys learning, testing, and build
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabioschorn&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fabioschorn&theme=tokyonight" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=fabioschorn&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Fabio Schorn GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioschorn&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
 
-## 🤯 For fun 🔥
+## 🔥 Hack, Learn & Earn 💸
 
-<p align="center">
-  <a href="https://tryhackme.com/p/fschorn09">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/fschorn09.png" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤯 For fun 🔥</h3>
+      <a href="https://tryhackme.com/p/fschorn09">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/fschorn09.png" alt="TryHackMe Badge" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>💸 For Money</h3>
+      <a href="https://bugcrowd.com/fs09">
+        <img src="https://img.shields.io/badge/Bugcrowd-fs09-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
