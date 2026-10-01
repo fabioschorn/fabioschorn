@@ -59,7 +59,7 @@ I’m also a **tech hobbyist and maker** who enjoys learning, testing, and build
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🤯 For fun 🔥</h3>
+      <h3>🤯 For Fun 🔥</h3>
       <a href="https://tryhackme.com/p/fschorn09">
         <img src="https://tryhackme-badges.s3.amazonaws.com/fschorn09.png" alt="TryHackMe Badge" />
       </a>
