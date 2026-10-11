@@ -61,17 +61,6 @@ I’m also a **tech hobbyist and maker** who enjoys learning, testing, and build
 
 ---
 
-## 🔐 Main Focus
-
-- Cloud Infrastructure
-- DevSecOps
-- Information Security
-- Automation
-- Linux & Open Source
-- Containers & Infrastructure as Code
-
----
-
 ## ☁️ Security & Cloud Stack
 
 <p align="center">
@@ -88,20 +77,14 @@ I’m also a **tech hobbyist and maker** who enjoys learning, testing, and build
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Main Focus
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=fabioschorn&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Fabio Schorn GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioschorn&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+- Cloud Infrastructure
+- DevSecOps
+- Information Security
+- Automation
+- Linux & Open Source
+- Containers & Infrastructure as Code
 
 ---
 
@@ -123,3 +106,20 @@ I’m also a **tech hobbyist and maker** who enjoys learning, testing, and build
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=fabioschorn&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Fabio Schorn GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioschorn&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
