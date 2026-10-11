@@ -6,6 +6,51 @@ I’m also a **tech hobbyist and maker** who enjoys learning, testing, and build
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/fabioschorn/physarum-attack-paths">
+          🧬 Physarum Attack Paths
+        </a>
+      </h3>
+      <p>
+        A Rust research prototype exploring bio-inspired attack-path discovery
+        through network evidence, LLM-assisted decisions, and policy controls
+        in authorized labs.
+      </p>
+      <p><strong>Rust · Security Research · AI Agents</strong></p>
+      <p>
+        <a href="https://github.com/fabioschorn/physarum-attack-paths">
+          Explore project →
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/fabioschorn/cve-random-maze">
+          🧩 CVE Random Maze
+        </a>
+      </h3>
+      <p>
+        A visual maze generator combining reproducible topologies, CVE
+        assignment, and Terraform generation. Under development toward
+        controlled AWS labs for security-agent benchmarking.
+      </p>
+      <p><strong>Python · React · Terraform</strong></p>
+      <p>
+        <a href="https://github.com/fabioschorn/cve-random-maze">
+          Explore project →
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🔐 Main Focus
 
 - Cloud Infrastructure
