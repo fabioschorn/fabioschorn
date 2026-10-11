@@ -6,6 +6,16 @@ I’m also a **tech hobbyist and maker** who enjoys learning, testing, and build
 
 ---
 
+## 🔗 Connect with me
+
+[![Medium](https://img.shields.io/badge/Medium-369?style=flat-square&logo=medium&logoColor=white&color=purple)](https://medium.com/@fschorn)
+[![Email](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mailhide.io/e/5LKify3d)
+![Visits](https://komarev.com/ghpvc/?username=fabioschorn&color=red&style=flat-square&label=Visits)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fabioschorn)
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -62,22 +72,18 @@ I’m also a **tech hobbyist and maker** who enjoys learning, testing, and build
 
 ---
 
-## 🔗 Connect with me
-
-[![Medium](https://img.shields.io/badge/Medium-369?style=flat-square&logo=medium&logoColor=white&color=purple)](https://medium.com/@fschorn)
-[![Email](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mailhide.io/e/5LKify3d)
-![Visits](https://komarev.com/ghpvc/?username=fabioschorn&color=red&style=flat-square&label=Visits)
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fabioschorn)
-
----
-
 ## ☁️ Security & Cloud Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,debian,redhat,docker,git,python,rust" />
+  <img
+    src="https://skillicons.dev/icons?i=linux,bash,debian,redhat,docker,git,python,rust"
+    alt="Linux, Bash, Debian, Red Hat, Docker, Git, Python and Rust"
+  />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,aws,gcp,mysql,postgres,mongodb" />
+  <img
+    src="https://skillicons.dev/icons?i=terraform,ansible,aws,gcp,mysql,postgres,mongodb"
+    alt="Terraform, Ansible, AWS, Google Cloud, MySQL, PostgreSQL and MongoDB"
+  />
 </p>
 
 ---
